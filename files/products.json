@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Filtro de aceite (Moto 1)",
+      "description": "Filtro de aceite para modelo 1",
+      "price": 1000,
+      "thumbnail": "https://static3.depositphotos.com/1000868/117/i/950/depositphotos_1173359-stock-photo-oil-filter.jpg",
+      "code": "abc111",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "title": "Filtro de aceite (Moto 2)",
+      "description": "Filtro de aceite para modelo 2",
+      "price": 2000,
+      "thumbnail": "https://st3.depositphotos.com/27700508/31760/i/1600/depositphotos_317602730-stock-photo-gray-oil-filter-filtering-cleaning.jpg",
+      "code": "abc112",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "title": "Filtro de aceite (Moto 3)",
+      "description": "Filtro de aceite para modelo 3",
+      "price": 3000,
+      "thumbnail": "https://st3.depositphotos.com/1010263/15066/i/1600/depositphotos_150665378-stock-photo-oil-filter-part-for-car.jpg",
+      "code": "abc113",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "title": "Pastillas de freno (Moto 1)",
+      "description": "Pastillas de freno para modelo 1",
+      "price": 1000,
+      "thumbnail": "https://st4.depositphotos.com/37084428/39807/i/1600/depositphotos_398073644-stock-photo-brake-pads-motorcycle.jpg",
+      "code": "abc121",
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "title": "Pastillas de freno (Moto 2)",
+      "description": "Pastillas de freno para modelo 2",
+      "price": 2000,
+      "thumbnail": "https://st2.depositphotos.com/1824224/8986/i/950/depositphotos_89861548-stock-photo-brake-pads-on-white-background.jpg",
+      "code": "abc122",
+      "stock": 10
+    },
+    {
+      "id": 6,
+      "title": "Pastillas de freno (Moto 3)",
+      "description": "Pastillas de freno para modelo 3",
+      "price": 3000,
+      "thumbnail": "https://st2.depositphotos.com/3457985/5398/i/950/depositphotos_53987729-stock-photo-new-auto-brake-pads.jpg",
+      "code": "abc123",
+      "stock": 10
+    },
+    {
+      "id": 7,
+      "title": "Bujía (Moto 1)",
+      "description": "Bujía de alta calidad para modelo 1",
+      "price": 1000,
+      "thumbnail": "https://st.depositphotos.com/1000128/3460/i/950/depositphotos_34608029-stock-photo-spark-plugs.jpg",
+      "code": "abc131",
+      "stock": 5
+    },
+    {
+      "id": 8,
+      "title": "Bujía (Moto 2)",
+      "description": "Bujía de alta calidad para modelo 2",
+      "price": 2000,
+      "thumbnail": "https://static8.depositphotos.com/1129853/877/i/950/depositphotos_8770693-stock-photo-sparkplug-illustration.jpg",
+      "code": "abc132",
+      "stock": 5
+    },
+    {
+      "id": 9,
+      "title": "Bujía (Moto 3)",
+      "description": "Bujía de alta calidad para modelo 3",
+      "price": 3000,
+      "thumbnail": "https://st.depositphotos.com/1001044/2015/i/950/depositphotos_20156897-stock-photo-spark-plug-on-a-white.jpg",
+      "code": "abc133",
+      "stock": 5
+    }
+  ]
